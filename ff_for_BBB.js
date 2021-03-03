@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         FastForward BBB AAU
 // @version      0.1
-// @description  Fast Foward Button
+// @description  Fast Foward Button for big blue button installation of university klagenfurt
 // @author       Karim Krell
 // @match        https://bbb.aau.at/playback/presentation/2.0/playback.html*
 // @grant        none
